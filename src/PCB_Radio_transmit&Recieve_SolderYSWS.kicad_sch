@@ -1533,22 +1533,22 @@
 	)
 	(global_label "3V_Reciever"
 		(shape input)
-		(at 175.26 55.88 0)
+		(at 165.1 80.01 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
-		(uuid "037dfa17-3d73-44b3-be97-ea723de278a5")
+		(uuid "01d38ccf-ec8f-491b-bc2b-dbd416a0389e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 189.4939 55.88 0)
+			(at 165.1 94.2439 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -1641,6 +1641,28 @@
 			)
 		)
 	)
+	(global_label "GND_Reciever"
+		(shape input)
+		(at 175.26 55.88 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "57f29b56-9f70-455d-bd79-a2beed3cbaa2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 191.0663 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "GND_Transmitter"
 		(shape input)
 		(at 44.45 30.48 180)
@@ -1698,28 +1720,6 @@
 		(uuid "cc1a62f6-93f8-444d-a824-68021a29fd11")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 58.42 98.5375 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "GND_Reciever"
-		(shape input)
-		(at 165.1 80.01 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "e23ff821-e980-4ba3-a362-a97d6bf119d6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 165.1 95.8163 90)
 			(effects
 				(font
 					(size 1.27 1.27)
