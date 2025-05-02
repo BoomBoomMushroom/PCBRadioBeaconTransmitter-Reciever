@@ -18,12 +18,13 @@ My pcb contains both a transmitter and reciever!
 ## BOM
 - 2 	Battery holder
 - 1 	10uF Capacitor
-- 1	    PNP Transistor
-- 1	    NPN Transistor
-- 1	    4.7k Resistor
-- 1	    47k Resistor
+- 1	  PNP Transistor
+- 1	  NPN Transistor
+- 1	  4.7k Resistor
+- 1	  47k Resistor
 - 2 	220 Resistor
 - 1 	Potentiometer
+- 1 	LED
 
 Made by `@Laney` on slack :D
 
