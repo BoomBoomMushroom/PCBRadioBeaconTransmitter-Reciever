@@ -11,7 +11,7 @@ My pcb contains both a transmitter and reciever!
 
 ## Features
 - Low power design! 3V operating voltage
-- Can be tuned with the accelerometer
+- Can be tuned with the potentiometer
 - Has a Colpitts-esque oscillator
 - Built in antennas
 
